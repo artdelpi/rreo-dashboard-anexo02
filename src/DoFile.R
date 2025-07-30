@@ -14,11 +14,9 @@ library(jsonlite)
 library(dplyr)
 
 ufs <- c(
-  12, 27, 13, 16, 29, 23, 53, 32, 52, 21, 31, 50,
-  51, 15, 25, 26, 22, 41, 33, 24, 11, 14, 43, 42,
-  28, 35, 17
+  12
 )
-anos <- 2015:2025
+anos <- 2015
 bimestres <- 1:6
 tipo_demonstrativo <- "RREO"
 anexo <- "RREO-Anexo 02"
@@ -44,9 +42,7 @@ for (ano in anos) {
       if (length(dados$items) == 0) next
       df <- as.data.frame(dados$items)
       # Adiciona colunas de contexto
-      df$ano <- ano
       df$bimestre <- bimestre
-      df$cod_ibge <- id_ente
       registros_brutos <- rbind(registros_brutos, df)
       Sys.sleep(1)
     }
