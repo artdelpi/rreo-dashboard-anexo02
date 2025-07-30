@@ -14,9 +14,11 @@ library(jsonlite)
 library(dplyr)
 
 ufs <- c(
-  12
+  12, 27, 13, 16, 29, 23, 53, 32, 52, 21, 31, 50,
+  51, 15, 25, 26, 22, 41, 33, 24, 11, 14, 43, 42,
+  28, 35, 17
 )
-anos <- 2015
+anos <- 2015:2025
 bimestres <- 1:6
 tipo_demonstrativo <- "RREO"
 anexo <- "RREO-Anexo 02"
