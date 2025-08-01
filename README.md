@@ -1,4 +1,4 @@
-# Painel RREO – Todas as Funções do MTO (Anexo 2 Completo)
+# Painel RREO - Todas as Funções do MTO (Anexo 2 Completo)
 
 Este repositório disponibiliza um **dashboard interativo em Power BI** para análise detalhada das **despesas liquidadas dos Governos Estaduais**, extraídas diretamente da **API do Tesouro Transparente (SICONFI)** por meio do endpoint `rreo` (Anexo 2).  
 O painel cobre **integralmente as 28 funções orçamentárias definidas pelo Manual Técnico de Orçamento (MTO)**, com detalhamento de **todas as subfunções** de cada uma delas. É possível selecionar qualquer função para análise, bem como filtrar por ente federativo.
@@ -10,19 +10,19 @@ O painel cobre **integralmente as 28 funções orçamentárias definidas pelo Ma
 <p align="center">
   <img src="docs/images/demo_f12.png" alt="Visão geral do dashboard de uma Função (exemplo Educação)" width="400px">
   <br>
-  <em>Figura 1 – Painel interativo em Power BI mostrando despesas liquidadas com a função 12 (Educação) por estado.</em>
+  <em>Figura 1 - Painel interativo em Power BI mostrando despesas liquidadas com a função 12 (Educação) por estado.</em>
 </p>
 
 <p align="center">
   <img src="docs/images/demo_f10.png" alt="Visão geral do dashboard de uma Função (exemplo Saúde)" width="400px">
   <br>
-  <em>Figura 2 – Painel interativo em Power BI mostrando despesas liquidadas com a função 10 (Saúde) por estado.</em>
+  <em>Figura 2 - Painel interativo em Power BI mostrando despesas liquidadas com a função 10 (Saúde) por estado.</em>
 </p>
 
 <p align="center">
   <img src="docs/images/demo_f09.png" alt="Visão geral do dashboard de uma Função (exemplo Previdência Social)" width="400px">
   <br>
-  <em>Figura 3 – Painel interativo em Power BI mostrando despesas liquidadas com a função 9 (Previdência Social) por estado.</em>
+  <em>Figura 3 - Painel interativo em Power BI mostrando despesas liquidadas com a função 9 (Previdência Social) por estado.</em>
 </p>
 
 ---
@@ -90,7 +90,7 @@ O dashboard é alimentado por um **arquivo bruto extraído via script R (`DoFile
   - `co_tipo_demonstrativo`: `RREO` (Relatório Resumido da Execução Orçamentária)
   - `no_anexo`: `RREO-Anexo 02`
 
-> O script **não filtra por função ou subfunção na coleta**, capturando todo o Anexo 2. Os filtros temáticos são aplicados **diretamente no Power BI**, onde é possível selecionar funções, subfunções e entes de interesse.
+> O script **não filtra por função ou subfunção na coleta**, capturando todo o Anexo 2. Os filtros temáticos são aplicados **diretamente no Power BI**, onde é possível selecionar funções e entes de interesse.
 
 ### **Script utilizado: `DoFile.R`**
 
@@ -111,12 +111,13 @@ SICONFI-API-POWERBI/
 │   ├── images/                        # capturas de tela dos dashboards
 │   │   ├── demo_f09.png
 │   │   ├── demo_f10.png
-│   │   └── demo_f12.png
+│   │   ├── demo_f12.png
+│   │   └── er_diagram.png             # proposta de modelo relacional (preliminar)
 │   └── data_dictionary.md             # dicionário de dados do projeto
 │
 ├── src/                               # scripts de extração de dados
 │   └── DoFile.R                       # coleta registros brutos do RREO Anexo 2
 │
 ├── .gitignore
-├── Dashboard RREO – Anexo 2.pbix
+├── Dashboard RREO - Anexo 2.pbix
 └── README.md

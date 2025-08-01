@@ -6,7 +6,7 @@ Este documento descreve as colunas, descrições e fontes usadas no projeto.
 
 ## 1. Dataset: `siconfi_rreo_bruto_2015_2025.csv`
 
-**Fonte:** API SICONFI – Relatório Resumido da Execução Orçamentária (RREO) – Anexo 02  
+**Fonte:** API SICONFI - Relatório Resumido da Execução Orçamentária (RREO) - Anexo 02  
 **Descrição:** Dump bruto de todos os registros do Anexo 02 do RREO, coletados pelo script `DoFile.R` para os anos de 2015 até o ano atual, para todos os entes federativos e bimestres. Sem filtragem por função ou subfunção, os filtros são aplicados no painel do Power BI.
 
 **Colunas:**
