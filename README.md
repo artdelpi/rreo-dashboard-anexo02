@@ -101,9 +101,6 @@ O script percorre todos os anos, bimestres e estados para montar uma base consol
 ```text
 SICONFI-API-POWERBI/
 │
-├── dashboards/                        # arquivos .pbix dos painéis Power BI
-│   └── Dashboard RREO – Anexo 2.pbix
-│
 ├── data/                              # armazenamento de dados brutos
 │   └── raw/                           # dump bruto da API
 │       └── siconfi_rreo_bruto_2015_2025.zip
@@ -119,4 +116,5 @@ SICONFI-API-POWERBI/
 │   └── DoFile.R                       # coleta registros brutos do RREO Anexo 2
 │
 ├── .gitignore
+├── Dashboard RREO – Anexo 2.pbix
 └── README.md
