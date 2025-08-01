@@ -1,0 +1,196 @@
+conta,num_funcao,nome_funcao
+Legislativa,1,Legislativa
+Ação Legislativa,1,Legislativa
+Controle Externo,1,Legislativa
+FU01 - Administração Geral,1,Legislativa
+FU01 - Demais Subfunções,1,Legislativa
+Judiciária,2,Judiciária
+Ação Judiciária,2,Judiciária
+Defesa do Interesse Público no Processo Judiciário,2,Judiciária
+FU02 - Administração Geral,2,Judiciária
+FU02 - Demais Subfunções,2,Judiciária
+Essencial à Justiça,3,Essencial à Justiça
+Defesa da Ordem Jurídica,3,Essencial à Justiça
+Representação Judicial e Extrajudicial,3,Essencial à Justiça
+FU03 - Administração Geral,3,Essencial à Justiça
+FU03 - Demais Subfunções,3,Essencial à Justiça
+Administração,4,Administração
+Planejamento e Orçamento,4,Administração
+Administração Geral,4,Administração
+Administração Financeira,4,Administração
+Controle Interno,4,Administração
+Normatização e Fiscalização,4,Administração
+Tecnologia da Informação,4,Administração
+Ordenamento Territorial,4,Administração
+Formação de Recursos Humanos,4,Administração
+Administração de Receitas,4,Administração
+Administração de Concessões,4,Administração
+Comunicação Social,4,Administração
+FU04 - Administração Geral,4,Administração
+FU04 - Demais Subfunções,4,Administração
+Defesa Nacional,5,Defesa Nacional
+Defesa Aérea,5,Defesa Nacional
+Defesa Naval,5,Defesa Nacional
+Defesa Terrestre,5,Defesa Nacional
+FU05 - Administração Geral,5,Defesa Nacional
+FU05 - Demais Subfunções,5,Defesa Nacional
+Segurança Pública,6,Segurança Pública
+Policiamento,6,Segurança Pública
+Defesa Civil,6,Segurança Pública
+Informação e Inteligência,6,Segurança Pública
+FU06 - Administração Geral,6,Segurança Pública
+FU06 - Demais Subfunções,6,Segurança Pública
+Relações Exteriores,7,Relações Exteriores
+Relações Diplomáticas,7,Relações Exteriores
+Cooperação Internacional,7,Relações Exteriores
+FU07 - Administração Geral,7,Relações Exteriores
+FU07 - Demais Subfunções,7,Relações Exteriores
+Assistência Social,8,Assistência Social
+Assistência à Pessoa Idosa,8,Assistência Social
+Assistência à Pessoa com Deficiência,8,Assistência Social
+Assistência à Criança e ao Adolescente,8,Assistência Social
+Assistência Comunitária,8,Assistência Social
+Serviços Socioassistenciais,8,Assistência Social
+Segurança de Renda,8,Assistência Social
+FU08 - Administração Geral,8,Assistência Social
+FU08 - Demais Subfunções,8,Assistência Social
+Previdência Social,9,Previdência Social
+Previdência Básica,9,Previdência Social
+Previdência do Regime Estatutário,9,Previdência Social
+Previdência Complementar,9,Previdência Social
+Previdência Especial,9,Previdência Social
+FU09 - Administração Geral,9,Previdência Social
+FU09 - Demais Subfunções,9,Previdência Social
+Saúde,10,Saúde
+Atenção Básica,10,Saúde
+Assistência Hospitalar e Ambulatorial,10,Saúde
+Suporte Profilático e Terapêutico,10,Saúde
+Vigilância Sanitária,10,Saúde
+Vigilância Epidemiológica,10,Saúde
+Alimentação e Nutrição,10,Saúde
+FU10 - Administração Geral,10,Saúde
+FU10 - Demais Subfunções,10,Saúde
+Trabalho,11,Trabalho
+Proteção e Benefícios ao Trabalhador,11,Trabalho
+Relações de Trabalho,11,Trabalho
+Empregabilidade,11,Trabalho
+Fomento ao Trabalho,11,Trabalho
+FU11 - Administração Geral,11,Trabalho
+FU11 - Demais Subfunções,11,Trabalho
+Educação,12,Educação
+Ensino Fundamental,12,Educação
+Ensino Médio,12,Educação
+Ensino Profissional,12,Educação
+Ensino Superior,12,Educação
+Educação Infantil,12,Educação
+Educação de Jovens e Adultos,12,Educação
+Educação Especial,12,Educação
+Educação Básica,12,Educação
+FU12 - Administração Geral,12,Educação
+FU12 - Demais Subfunções,12,Educação
+Cultura,13,Cultura
+Patrimônio Histórico,13,Cultura
+Difusão Cultural,13,Cultura
+FU13 - Administração Geral,13,Cultura
+FU13 - Demais Subfunções,13,Cultura
+Direitos da Cidadania,14,Direitos da Cidadania
+Custódia e Reintegração Social,14,Direitos da Cidadania
+Direitos Individuais,14,Direitos da Cidadania
+Assistência aos Povos Indígenas,14,Direitos da Cidadania
+FU14 - Administração Geral,14,Direitos da Cidadania
+FU14 - Demais Subfunções,14,Direitos da Cidadania
+Urbanismo,15,Urbanismo
+Infra-estrutura Urbana,15,Urbanismo
+Serviços Urbanos,15,Urbanismo
+Transportes Coletivos Urbanos,15,Urbanismo
+FU15 - Administração Geral,15,Urbanismo
+FU15 - Demais Subfunções,15,Urbanismo
+Habitação,16,Habitação
+Habitação Rural,16,Habitação
+Habitação Urbana,16,Habitação
+FU16 - Administração Geral,16,Habitação
+FU16 - Demais Subfunções,16,Habitação
+Saneamento,17,Saneamento
+Saneamento Básico Rural,17,Saneamento
+Saneamento Básico Urbano,17,Saneamento
+FU17 - Administração Geral,17,Saneamento
+FU17 - Demais Subfunções,17,Saneamento
+Gestão Ambiental,18,Gestão Ambiental
+Preservação e Conservação Ambiental,18,Gestão Ambiental
+Controle Ambiental,18,Gestão Ambiental
+Recuperação de Áreas Degradadas,18,Gestão Ambiental
+Recursos Hídricos,18,Gestão Ambiental
+Meteorologia,18,Gestão Ambiental
+FU18 - Administração Geral,18,Gestão Ambiental
+FU18 - Demais Subfunções,18,Gestão Ambiental
+Ciência e Tecnologia,19,Ciência e Tecnologia
+Desenvolvimento Científico,19,Ciência e Tecnologia
+Desenvolvimento Tecnológico e Engenharia,19,Ciência e Tecnologia
+Difusão do Conhecimento Científico e Tecnológico,19,Ciência e Tecnologia
+FU19 - Administração Geral,19,Ciência e Tecnologia
+FU19 - Demais Subfunções,19,Ciência e Tecnologia
+Agricultura,20,Agricultura
+Abastecimento,20,Agricultura
+Extensão Rural,20,Agricultura
+Irrigação,20,Agricultura
+Promoção da Produção Agropecuária,20,Agricultura
+Defesa Agropecuária,20,Agricultura
+FU20 - Administração Geral,20,Agricultura
+FU20 - Demais Subfunções,20,Agricultura
+Organização Agrária,21,Organização Agrária
+Reforma Agrária,21,Organização Agrária
+Colonização,21,Organização Agrária
+FU21 - Administração Geral,21,Organização Agrária
+FU21 - Demais Subfunções,21,Organização Agrária
+Indústria,22,Indústria
+Promoção Industrial,22,Indústria
+Produção Industrial,22,Indústria
+Mineração,22,Indústria
+Propriedade Industrial,22,Indústria
+Normalização e Qualidade,22,Indústria
+FU22 - Administração Geral,22,Indústria
+FU22 - Demais Subfunções,22,Indústria
+Comércio e Serviços,23,Comércio e Serviços
+Promoção Comercial,23,Comércio e Serviços
+Comercialização,23,Comércio e Serviços
+Comércio Exterior,23,Comércio e Serviços
+Serviços Financeiros,23,Comércio e Serviços
+Turismo,23,Comércio e Serviços
+FU23 - Administração Geral,23,Comércio e Serviços
+FU23 - Demais Subfunções,23,Comércio e Serviços
+Comunicações,24,Comunicações
+Comunicações Postais,24,Comunicações
+Telecomunicações,24,Comunicações
+FU24 - Administração Geral,24,Comunicações
+FU24 - Demais Subfunções,24,Comunicações
+Energia,25,Energia
+Conservação de Energia,25,Energia
+Energia Elétrica,25,Energia
+Combustíveis Minerais,25,Energia
+Biocombustíveis,25,Energia
+FU25 - Administração Geral,25,Energia
+FU25 - Demais Subfunções,25,Energia
+Transporte,26,Transporte
+Transporte Aéreo,26,Transporte
+Transporte Rodoviário,26,Transporte
+Transporte Ferroviário,26,Transporte
+Transporte Aquaviário,26,Transporte
+Transportes Especiais,26,Transporte
+FU26 - Administração Geral,26,Transporte
+FU26 - Demais Subfunções,26,Transporte
+Desporto e Lazer,27,Desporto e Lazer
+Desporto de Rendimento,27,Desporto e Lazer
+Desporto Comunitário,27,Desporto e Lazer
+Lazer,27,Desporto e Lazer
+FU27 - Administração Geral,27,Desporto e Lazer
+FU27 - Demais Subfunções,27,Desporto e Lazer
+Encargos Especiais,28,Encargos Especiais
+Refinanciamento da Dívida Interna,28,Encargos Especiais
+Refinanciamento da Dívida Externa,28,Encargos Especiais
+Serviço da Dívida Interna,28,Encargos Especiais
+Serviço da Dívida Externa,28,Encargos Especiais
+Outras Transferências,28,Encargos Especiais
+Outros Encargos Especiais,28,Encargos Especiais
+Transferências para a Educação Básica,28,Encargos Especiais
+FU28 - Administração Geral,28,Encargos Especiais
+FU28 - Demais Subfunções,28,Encargos Especiais
