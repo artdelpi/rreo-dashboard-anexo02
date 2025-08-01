@@ -1,6 +1,7 @@
-# Painel RREO - Todas as Funções do MTO (Anexo 2 Completo)
+# Painel RREO: Todas as Funções do MTO (Anexo 2 Completo)
 
 Este repositório disponibiliza um **dashboard interativo em Power BI** para análise detalhada das **despesas liquidadas dos Governos Estaduais**, extraídas diretamente da **API do Tesouro Transparente (SICONFI)** por meio do endpoint `rreo` (Anexo 2).  
+
 O painel cobre **integralmente as 28 funções orçamentárias definidas pelo Manual Técnico de Orçamento (MTO)**, com detalhamento de **todas as subfunções** de cada uma delas. É possível selecionar qualquer função para análise, bem como filtrar por ente federativo.
 
 ---
@@ -16,13 +17,13 @@ O painel cobre **integralmente as 28 funções orçamentárias definidas pelo Ma
 <p align="center">
   <img src="docs/images/demo_f10.png" alt="Visão geral do dashboard de uma Função (exemplo Saúde)" width="400px">
   <br>
-  <em>Figura 2 - Painel interativo em Power BI mostrando despesas liquidadas com a função 10 (Saúde) por estado.</em>
+  <em>Figura 2 - Despesas liquidadas com a função 10 (Saúde) por estado.</em>
 </p>
 
 <p align="center">
   <img src="docs/images/demo_f09.png" alt="Visão geral do dashboard de uma Função (exemplo Previdência Social)" width="400px">
   <br>
-  <em>Figura 3 - Painel interativo em Power BI mostrando despesas liquidadas com a função 9 (Previdência Social) por estado.</em>
+  <em>Figura 3 - Despesas liquidadas com a função 9 (Previdência Social) por estado.</em>
 </p>
 
 ---
