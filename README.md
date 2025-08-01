@@ -8,19 +8,19 @@ O painel cobre **integralmente as 28 funções orçamentárias definidas pelo Ma
 ## Dashboard
 
 <p align="center">
-  <img src="docs/images/demo_f09.png" alt="Visão geral do dashboard de uma Função (exemplo Educação)" width="600px">
+  <img src="docs/images/demo_f09.png" alt="Visão geral do dashboard de uma Função (exemplo Educação)" width="400px">
   <br>
   <em>Figura 1 – Painel interativo em Power BI mostrando despesas liquidadas com a função 9 (Educação) por estado.</em>
 </p>
 
 <p align="center">
-  <img src="docs/images/demo_f10.png" alt="Visão geral do dashboard de uma Função (exemplo Saúde)" width="600px">
+  <img src="docs/images/demo_f10.png" alt="Visão geral do dashboard de uma Função (exemplo Saúde)" width="400px">
   <br>
   <em>Figura 2 – Painel interativo em Power BI mostrando despesas liquidadas com a função 10 (Saúde) por estado.</em>
 </p>
 
 <p align="center">
-  <img src="docs/images/demo_f12.png" alt="Visão geral do dashboard de uma Função (exemplo Previdência Social)" width="600px">
+  <img src="docs/images/demo_f12.png" alt="Visão geral do dashboard de uma Função (exemplo Previdência Social)" width="400px">
   <br>
   <em>Figura 3 – Painel interativo em Power BI mostrando despesas liquidadas com a função (Previdência Social) por estado.</em>
 </p>
